@@ -32,7 +32,7 @@ BTC : 38JYmWtXezJj6xUMorcXZvn6kphmAZxZ66
 
 
 ## Supported by
-- [![Download MaddSend](https://sourceforge.net/sflogo.php?type=11&group_id=3229354)](https://sourceforge.net/p/maddsend/)
+- [![Download MaddSend](https://sourceforge.net/sflogo.php?type=13&group_id=3229354)](https://sourceforge.net/p/maddsend/)
 
 
 ## Contact
