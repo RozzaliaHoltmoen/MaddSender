@@ -1,7 +1,7 @@
 ## MaddStress
 
 ``
-MaddSender - Email Sender + Email Bomber is a Email Bombing which supports Gmail, Yahoo, Aol, Outlook, Yandex, and You can custom it yourself. 
+MaddSender is a Email Sender + Email Bombing which supports Gmail, Yahoo, Aol, Outlook, Yandex, and You can custom it yourself. 
 ``
 
 ## Information
