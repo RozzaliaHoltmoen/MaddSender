@@ -17,6 +17,7 @@ BTC : 38JYmWtXezJj6xUMorcXZvn6kphmAZxZ66
 - News Information
 - Custom SMTP Server
 - Cool & Simple UI Design
+- User Friendly GUI
 - Always Updates
 
 
