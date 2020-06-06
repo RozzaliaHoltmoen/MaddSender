@@ -15,6 +15,7 @@ BTC : 38JYmWtXezJj6xUMorcXZvn6kphmAZxZ66
 ## Features
 - System Information
 - News Information
+- API's Spoofing
 - Custom SMTP Server
 - Cool & Simple UI Design
 - User Friendly GUI
@@ -29,7 +30,7 @@ BTC : 38JYmWtXezJj6xUMorcXZvn6kphmAZxZ66
 
 
 ## Virus Check: 
-- VirusTotal - https://www.virustotal.com/gui/file/a1f4c8923776c634d321666b13afaa12e01257097df1f8af0c784058cc390a96/detection
+- VirusTotal - https://www.virustotal.com/gui/file/2d2f03d5561f46561ba3d2b22bc876cc8c5169fb7ee62809c58a3d9f96604e4f/detection
 
 
 ## Supported by
